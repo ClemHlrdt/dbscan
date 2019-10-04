@@ -1,2 +1,2 @@
 # dbscan
-Python implementation of DBScan
+Python implementation of the DBScan algorithm
